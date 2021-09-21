@@ -3,9 +3,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">tidyhome</a></li>
+        <li><a href="./">Green Cleaning</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/sj-io/tidyhome/edit/main/%s
+    edit: https://github.com/sj-io/greencleaning/edit/main/%s
     download: ["epub"]
 bookdown::epub_book: default
