@@ -1,11 +1,20 @@
-# Hello bookdown 
+# Why Use Green Cleaners?
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+Of the hundreds of cleaning products on the market today, most contain ingredients you can't even pronounce. While it is likely that manufacturers have conducted extensive testing on these consumer products, the risks posed by their chemical content are uncertain and, in many cases, probably low. Nevertheless, human health is always well-served by reducing exposure to chemicals. Decreased chemical use is also a pollution prevention measure. In short, green cleaning is good for you *and* good for the environment!
 
-## A section
+## Reasons to make and use your own green cleaners
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+-   Most of the ingredients you may already have in your home
+-   You save money
+-   Generally, green cleaners work as well as those with harsher chemicals
+-   Green cleaning keeps dangerous toxins out of your home
 
-### An unnumbered section {-}
+## Where to find ingredients
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+-   Baking soda (sodium bicarbonate): baking aisle of grocery store
+-   Washing soda (sodium carbonate): laundry aisle of grocery store
+-   Borax (sodium borate): laundry aisle of grocery store
+-   Vegetable oil-based liquid soap (common name: Castile Soap): big box stores (Target, Walmart, large grocery stores, home improvement stores, natural food stores)
+-   Essential oils: health food, natural food stores, drug stores, and some big box stores
+
+**If your home was built before 1978, it is really important to keep it clean to protect children from lead poisoning.**
