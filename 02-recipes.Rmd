@@ -1,36 +1,317 @@
-# How clean is clean?
+# Recipe List
 
 Most cleaning jobs only need soap or detergent, water, and a little elbow grease. Some surfaces may need extra attention to control germs.
 
-**Sanitizers** reduce, but do not totally eliminate germs but are usually safer to use.
+**Sanitizers** reduce yet do not totally eliminate germs, but are usually safer to use.
 
-**Disinfectants** destroy or inactivate germs but tend to be more toxic and must be used with care.
+**Disinfectants** destroy or inactivate germs, but tend to be more toxic and must be used with care.
 
 **Always label all cleaners clearly!!!**
 
 ## All-Purpose Cleaner
 
-### Ingredients
+### Ingredients {.unnumbered}
 
 -   2 tablespoons borax
 -   1/4 cup vinegar
 -   2 cups hot water
 
-### Instructions
+### Instructions {.unnumbered}
 
 -   Mix ingredients in a spray bottle or bucket.
 -   Apply and wipe clean
 
 ## Furniture Polish
 
-### Ingredients
+*This polish should be made fresh for each use.*
+
+### Ingredients {.unnumbered}
 
 -   1 lemon
 -   1 tablespoon of olive oil
 -   1 tablespoon water
 
-### Instructions
+### Instructions {.unnumbered}
 
 -   Cut and squeeze juice from lemon into small container, using a strainer to remove pulp and seeds
 -   Add oil and water. Mix well.
 -   Apply a thin coat on wood surface, then buff with a soft cloth to a deep shine
+
+## Refrigerator Cleaner
+
+### Ingredients {.unnumbered}
+
+-   1 tablespoon baking soda
+-   1 quart warm water
+
+### Instructions {.unnumbered}
+
+-   Dissolve baking soda in water.
+-   Wipe all surfaces inside and out.
+-   For stubborn spots, rub with a paste made from baking soda and a little water.
+-   Rinse well with a clean, wet cloth.
+
+## Tub and Tile Cleaner
+
+### Ingredients {.unnumbered}
+
+-   White vinegar
+-   Baking soda or non-iodized salt
+
+### Instructions {.unnumbered}
+
+-   Apply full-strength vinegar to a sponge and wipe surface.
+-   Next, use baking soda or salt as a scouring powder.
+-   Rub with damp sponge and rise well with clean water.
+
+## Scouring Powder
+
+### Ingredients {.unnumbered}
+
+-   1 cup baking soda
+-   1 cup borax
+-   1 cup non-iodized salt
+
+### Instructions {.unnumbered}
+
+-   Mix in a container.
+-   Sprinkle an area to be cleaned.
+-   Wipe with a sponge and rinse well.
+
+## Grease Remover
+
+### Ingredients {.unnumbered}
+
+-   Vinegar
+-   Baking soda
+-   Vegetable oil
+
+### Instructions {.unnumbered}
+
+-   Put full-strength vinegar on surface and let set for a few minutes.
+-   Wipe clean with dishcloth or nonabrasive scrubber.
+-   If grease remains: put baking soda on a damp sponge and scrub surface. Rise well with clean wet cloth.
+-   If grease remains: remember, grease removes grease. Put vegetable oil on paper towel and scrub. Follow up with above steps.
+
+## Toilet Bowl Cleaner
+
+### Ingredients {.unnumbered}
+
+-   1 cup borax
+-   1/2 cup vinegar
+
+### Instructions {.unnumbered}
+
+-   Flush toilet to wet the sides of the bowl.
+-   Sprinkle borax around the toilet bowl.
+-   Spray vinegar on top of borax.
+-   Leave for several hours or overnight.
+-   Scrub with a toilet brush.
+
+## Glass Cleaner
+
+*Hint: For lint-free results, wipe dry with crumpled black and white newspaper.*
+
+### Ingredients {.unnumbered}
+
+-   1/4 cup white vinegar
+-   1 tablespoon cornstarch
+-   1 quart warm water
+
+### Instructions {.unnumbered}
+
+-   Mix ingredients.
+-   Apply with a sponge or spray bottle.
+-   Wipe off with cotton or microfiber cloth.
+
+## Floor Cleaner
+
+### Ingredients {.unnumbered}
+
+-   1/2 cup white vinegar
+-   1 gallon warm water
+
+### Instructions {.unnumbered}
+
+-   Mix ingredients
+-   Avoid overwetting the floor by using a spray bottle to apply the cleaner to the floor.
+-   Mop as usual.
+-   Rinse with clean water.
+
+## Heavy-Duty Floor Cleaner
+
+### Ingredients {.unnumbered}
+
+-   1 cup white vinegar
+-   1/2 cup washing soda
+-   1 tablespoon vegetable oil-based liquid soap
+-   2 gallons hot water
+
+### Instructions {.unnumbered}
+
+-   Combine all ingredients in pail, stirring well to dissolve the washing soda.
+-   Mop as usual.
+-   Rinse with clean water.
+
+## Drain Cleaner
+
+*This cleaner is safe for garbage disposals.*
+
+### Ingredients {.unnumbered}
+
+-   1/2 cup baking soda
+-   1 cup white vinegar
+-   1 gallon boiling water
+
+### Instructions {.unnumbered}
+
+-   Pour baking soda down drain.
+-   Follow by pouring vinegar down drain.
+-   Allow the mixture to "foam" for several minutes.
+-   Pour the boiling water down the drain to flush out the pipe.
+
+## Mold and Mildew Cleaner
+
+*Warning: Do not clean mold if you are allergic to mold or have asthma.*
+
+*Hint: A mold problem is a moisture problem. Keep surfaces dry.*
+
+### Ingredients {.unnumbered}
+
+-   1 cup borax
+-   1 gallon warm water
+
+### Instructions {.unnumbered}
+
+-   Mix ingredients.
+-   Dip sponge into solution.
+-   Scrub moldy area.
+-   Rinse well with clean water.
+-   Dry well.
+
+### Notes {.unnumbered}
+
+-   This is only intended for small areas of mold, such as in the bathtub/shower.
+-   Use only on surfaces that do not absorb water.
+-   Wear gloves.
+-   Throw away sponge to prevent the spread of mold.
+
+## Copper and Brass Cleaner
+
+*Not for use on lacquered surfaces.*
+
+### Ingredients {.unnumbered}
+
+-   Lemon juice
+-   Non-iodized salt
+-   Cornstarch
+
+### Instructions {.unnumbered}
+
+-   Mix equal parts of salt and cornstarch with lemon juice to make a paste.
+-   Apply to surface with soft cloth.
+-   Rub gently.
+-   Rinse with warm water and mild dish soap.
+-   Dry with soft cloth.
+
+## Sink and Appliance Cleaner
+
+*Use to clean stainless steel, fiberglass, ceramic, porcelain, or enamel.*
+
+### Ingredients {.unnumbered}
+
+-   2 tablespoons baking soda
+-   1 quart water
+
+### Instructions {.unnumbered}
+
+-   Dissolve the baking soda in the water.
+-   Wipe on fixtures.
+-   Rinse with clean water.
+
+## Water Rings on Wood Remover
+
+*Water rings on a wood surface are the result of moisture that is trapped under the top coat but not the finish. Preventing water rings is the easiest solution. Use coasters.*
+
+### Ingredients {.unnumbered}
+
+-   Non-gel regular toothpaste or
+-   Mayonnaise
+
+### Instructions {.unnumbered}
+
+-   Rub toothpaste or mayonnaise gently onto ring.
+-   Once ring is removed, use furniture polish.
+
+## Laundry Detergent
+
+*Always follow manufacturer's laundry directions, found on all clothing and household textiles.*
+
+### Ingredients {.unnumbered}
+
+-   1 cup ivory soap (powder)
+-   1/2 cup washing soda
+-   1/2 cup borax
+
+### Instructions {.unnumbered}
+
+-   Mix ingredients and store in sealed container.
+-   Use 1 tablespoon for light loads.
+-   Use 2 tablespoons for heavy loads.
+
+## Oil and Grease Cleaner for Concrete
+
+### Ingredients {.unnumbered}
+
+-   Baking soda
+
+### Instructions {.unnumbered}
+
+-   Sprinkle baking soda on grease or oil spot.
+-   Scrub with wet brush.
+-   Rinse well.
+
+## Oven Cleaner
+
+### Ingredients {.unnumbered}
+
+-   3/4 cup baking soda
+-   1/4 cup non-iodized salt
+-   1/4 cup water
+-   Steel wool, if needed
+
+### Instructions {.unnumbered}
+
+-   Make a paste of the baking soda, salt, and water.
+-   Spread over inside of oven (do not put on metal parts or openings).
+-   Leave overnight.
+-   Remove with plastic spatula and wipe clean.
+-   Rub stubborn spots gently with steel wool.
+
+## Fragrant Kitchen and Bath Cleaner
+
+### Ingredients {.unnumbered}
+
+-   2 tablespoons white vinegar
+-   2 pints water
+-   4 drops essential oil (lavender, tea tree oil, lemon, lemongrass, or rosemary)
+
+### Instructions {.unnumbered}
+
+-   Combine ingredients in spray bottle.
+-   Use as a final rinse after cleaning kitchen/bath surfaces.
+-   Store in a cool, dark place.
+
+## Garbage Can Deodorizer
+
+### Ingredients {.unnumbered}
+
+-   2 cups baking soda
+-   1 teaspoon tea tree oil
+
+### Instructions {.unnumbered}
+
+-   Mix ingredients together in small bowl, working out all the lumps with a fork.
+-   Sprinkle mixture in the bottom of trash can after removing liner.
+-   Replace new liner.
+-   Periodically rinse container with white vinegar and let dry in the sun.
