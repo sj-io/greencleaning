@@ -1,2 +1,2 @@
 # tidyhome
-A recipe guide for green home cleaning supplies.
+A recipe book for how to make safe, affordable and green home cleaning supplies.
